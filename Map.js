@@ -1,5 +1,4 @@
-
-    function doubleAllBadName(numbers) {
+ function doubleAllThisIsRightOne(numbers) {
       // SOLUTION GOES 
        var result=numbers.map(function double(num){
        	    return num*2;
