@@ -1,5 +1,5 @@
 
-    function doubleAll(numbers) {
+    function doubleAllBadName(numbers) {
       // SOLUTION GOES 
        var result=numbers.map(function double(num){
        	    return num*2;
